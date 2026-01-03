@@ -19,4 +19,4 @@ This repository implements foundational Object-Oriented Programming (OOP) concep
 1. Compile with a C++ compiler (e.g., `g++ main.cpp -o main`)
 2. Execute the program and follow on-screen prompts
 
-> ✅All code written from scratch to avoid plagiarism. Input values are user-defined per lab instructions.
+> All code written from scratch to avoid plagiarism. Input values are user-defined per lab instructions.
